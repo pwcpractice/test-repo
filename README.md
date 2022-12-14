@@ -1,3 +1,3 @@
 # Test
 
-Some description. This is just a learning environment.
+Some description. This is just a learning environment. Let's Get it!
